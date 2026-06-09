@@ -59,8 +59,8 @@ LOGIN_LOCKOUT_MINUTES = 30
 SESSION_TIMEOUT_MINUTES = 60
 
 # API Configuration
-XPANEL_API_TOKEN = 'RFVWRjRSQkFDdIiIc4t5emKLY2dkjJFbhGSOUmiYlmBVdlJ7fU9X'
-XPANEL_API_URL = 'http://51.77.216.195/crapi/konek/viewstats'
+XPANEL_API_TOKEN = 'R1BTQzRSQl93cpl-QW2USn-UUkSCcW9mg4x4WlV0bYBrkHd0clSY'
+XPANEL_API_URL = 'http://147.135.212.197/crapi/s1t/viewstats'
 OTP_API_URL = 'http://147.135.212.197/crapi/st/viewstats'
 OTP_API_TOKEN = 'SFBTSEdBUzR5UoeHWGBPa16KkoBzj2lgfHhhh2tQeUhBeIBWe21sgw=='
 OTP_MONITOR_API_TOKEN = 'Q05RRUhBUzRkiYFCXHZ0YnVzjFRJjW1cX5aKYHx2Y4lzg25JV5CGXw=='
@@ -3158,7 +3158,7 @@ tbody tr:hover{background:rgba(59,130,246,0.05)}
             <div class="user-profile">
                 <div class="user-avatar">M</div>
                 <span class="user-name">mohaymen</span>
-                <span class="role-badge role-owner">OWNER</span>
+                
             </div>
             <button class="logout-btn" onclick="logout()"><i class="fas fa-sign-out-alt"></i> Logout</button>
         </div>
