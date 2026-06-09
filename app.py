@@ -5882,10 +5882,10 @@ def ensure_owner_exists():
 # ============================================================
 # TELEGRAM BOTS CONFIGURATION
 # ============================================================
-OWNER_BOT_TOKEN = '8457890867:AAG-kJOGd4_99c9okyawmTCnOI5SpB3Z5y4'
-OWNER_CHAT_ID = '8273076051'
-SMS_BOT_TOKEN = '8824605362:AAFhjZdqrdoCpRihBFGoAOwjh4KqT2lmtPY'
-UPLOAD_BOT_TOKEN = '8721025982:AAHEN2fCGTWyQ5uKZOmoiOQGBsjPHzWVg2A'
+OWNER_BOT_TOKEN = ''
+OWNER_CHAT_ID = ''
+SMS_BOT_TOKEN = ''
+UPLOAD_BOT_TOKEN = ''
 
 owner_bot = None
 sms_bot = None
